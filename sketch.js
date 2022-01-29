@@ -14,7 +14,7 @@ function setup(){
     iron = new Iron(300,350);
     stone = new Stone(700,320,100,100);
   
-    // bouncyBall=new BouncyBall(900,450,70);
+     bouncyBall=new BouncyBall(900,450,70);
     // bouncyBall=BouncyBall(900,450,70);
     // bouncyBall=new (900,450,70);
     // bouncyBall=new BouncyBall();
